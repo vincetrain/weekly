@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Weekly",
+  "name": "Weekly, an open source weekly to-do list",
   "icons": [
     {
       "src": "favicon.ico",
